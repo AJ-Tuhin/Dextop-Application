@@ -1,0 +1,91 @@
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrand.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategory.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCity.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployee.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedger.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProduct.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPrice.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchase.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseDetails.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseDetailsNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransaction.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransactionNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnit.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitNew.resources
+E:\bdJobsTraining\Class_015\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrand.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCity.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployee.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedger.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProduct.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPrice.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchase.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransaction.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransactionNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.frmtest.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeEdit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityEdit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandEdit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitEdit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductEdit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategory.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryNew.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryEdit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceEdit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageEdit.resources
+E:\bdJobsTraining\MyProject\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerEdit.resources
